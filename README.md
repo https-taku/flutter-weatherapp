@@ -35,5 +35,12 @@ This app is a beginner project designed to:
 ## How to Run the App ▶️
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/https-taku/flutter-weatherapp.git
    cd weatherapp
+
+  2. Install Dependencies
+      flutter pub get
+
+3. run the app
+   flutter run
+
